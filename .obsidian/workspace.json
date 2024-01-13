@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "d42064b091d7fddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "82db60df437c7cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a00d3526aaa4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024-01-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdb68576928de808",
+    "type": "split",
+    "children": [
+      {
+        "id": "831cf0858ad09649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857bfc9463493b69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd799f2775cd575f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7dfdd2105c3de28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c7e6a6a38c18dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c375c7871bc641d1",
+        "type": "tabs",
+        "dimension": 32.36434108527132,
+        "children": [
+          {
+            "id": "702386e9ef49ee44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2024-01-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eaa90057008cbd19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journals/2024-01-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4da161fabecc4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf9844b57a8b42c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2024-01-13.md"
+              }
+            }
+          },
+          {
+            "id": "3683650ea2d3020a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "93ede23a6fe89dba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "3d35fa358f760247",
+        "type": "tabs",
+        "dimension": 67.63565891472868,
+        "children": [
+          {
+            "id": "f36bc2532a49aa04",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "f36bc2532a49aa04",
+  "lastOpenFiles": [
+    "files/Pasted Image 20240113185029.jpeg",
+    "journals/2024-01-13.md",
+    "2024-01-13.md",
+    "templates/010_journal_weekly.md",
+    "templates/000_journal.md",
+    "Welcome.md",
+    "templates",
+    "journals",
+    "files"
+  ]
+}
